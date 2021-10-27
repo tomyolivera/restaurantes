@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
-import Restaurantes from './Components/Restautantes';
+import Restaurantes from './Components/Restaurantes';
 
 const RouterApp = () => {
     return (
